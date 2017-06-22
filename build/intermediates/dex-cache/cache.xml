@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andrew Franchly\.android\build-cache\2bf80a1e1ba90fa51c5b9d173c20b0467e0c28f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\SDK\Psychology-Dictioinary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_410d7fadb3fbf44a796724c83f455cf2b3731c01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andrew Franchly\.android\build-cache\cdbf6e830afbd975f091e7525afb10d1c5eb718f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="D:\SDK\Psychology-Dictioinary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2341cdcc86a3b84c61d7e1b6ae51a956fc5ac42c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SDK\Psychology-Dictioinary-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8424d50647685c118566482ffa9fd0607115aa86">
+        <dex dex="D:\SDK\Psychology-Dictioinary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ac4a7905930505eaa6031571da8c0a64b69650cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andrew Franchly\.android\build-cache\2bf80a1e1ba90fa51c5b9d173c20b0467e0c28f3\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\SDK\Psychology-Dictioinary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_78005b5a1e6729853e41d1d99057baa2bfabcbf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SDK\Psychology-Dictioinary-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\SDK\Psychology-Dictioinary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_659ffa9fb46513e0cd05ba03ad64f431d4f4d858\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andrew Franchly\.android\build-cache\78490e123b6f8847696c65259f74336e59e6572e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\SDK\Psychology-Dictioinary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79a72f04dbaf16c8f7a7203d83b2ea11c0a69dd5\classes.dex" />
+    </item>
+
+</items>

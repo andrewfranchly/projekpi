@@ -1,0 +1,16 @@
+#Thu Jun 15 11:25:43 ICT 2017
+renamed.4=classes.dex
+renamed.3=classes2.dex
+renamed.2=classes5.dex
+renamed.1=classes3.dex
+base.4=D\:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2341cdcc86a3b84c61d7e1b6ae51a956fc5ac42c
+renamed.0=classes4.dex
+base.3=D\:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_410d7fadb3fbf44a796724c83f455cf2b3731c01
+base.2=D\:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_0ec3737ce1fc3a920d363e6433164d48383aac89
+base.1=D\:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_79a72f04dbaf16c8f7a7203d83b2ea11c0a69dd5
+base.0=D\:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_78005b5a1e6729853e41d1d99057baa2bfabcbf4
+file.4=D\:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2341cdcc86a3b84c61d7e1b6ae51a956fc5ac42c\\classes.dex
+file.3=D\:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_410d7fadb3fbf44a796724c83f455cf2b3731c01\\classes.dex
+file.2=D\:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_0ec3737ce1fc3a920d363e6433164d48383aac89\\classes.dex
+file.1=D\:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_79a72f04dbaf16c8f7a7203d83b2ea11c0a69dd5\\classes.dex
+file.0=D\:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_78005b5a1e6729853e41d1d99057baa2bfabcbf4\\classes.dex

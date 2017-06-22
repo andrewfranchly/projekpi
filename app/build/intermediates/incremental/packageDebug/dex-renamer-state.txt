@@ -1,0 +1,7 @@
+#Thu Jun 15 11:25:53 ICT 2017
+base.0=D\:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_659ffa9fb46513e0cd05ba03ad64f431d4f4d858
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ac4a7905930505eaa6031571da8c0a64b69650cf\\classes.dex
+base.1=D\:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ac4a7905930505eaa6031571da8c0a64b69650cf
+file.0=D\:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_659ffa9fb46513e0cd05ba03ad64f431d4f4d858\\classes.dex

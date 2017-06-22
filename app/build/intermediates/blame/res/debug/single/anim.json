@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Andrew Franchly\\.android\\build-cache\\78490e123b6f8847696c65259f74336e59e6572e\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_in.xml",
+        "source": "C:\\Users\\Andrew Franchly\\.android\\build-cache\\cdbf6e830afbd975f091e7525afb10d1c5eb718f\\output\\res\\anim\\snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Andrew Franchly\\.android\\build-cache\\78490e123b6f8847696c65259f74336e59e6572e\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Andrew Franchly\\.android\\build-cache\\78490e123b6f8847696c65259f74336e59e6572e\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Andrew Franchly\\.android\\build-cache\\78490e123b6f8847696c65259f74336e59e6572e\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
+        "source": "C:\\Users\\Andrew Franchly\\.android\\build-cache\\cdbf6e830afbd975f091e7525afb10d1c5eb718f\\output\\res\\anim\\fab_in.xml"
+    },
+    {
+        "merged": "D:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_out.xml",
+        "source": "C:\\Users\\Andrew Franchly\\.android\\build-cache\\cdbf6e830afbd975f091e7525afb10d1c5eb718f\\output\\res\\anim\\snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Andrew Franchly\\.android\\build-cache\\78490e123b6f8847696c65259f74336e59e6572e\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Andrew Franchly\\.android\\build-cache\\78490e123b6f8847696c65259f74336e59e6572e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Andrew Franchly\\.android\\build-cache\\78490e123b6f8847696c65259f74336e59e6572e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Andrew Franchly\\.android\\build-cache\\78490e123b6f8847696c65259f74336e59e6572e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Andrew Franchly\\.android\\build-cache\\78490e123b6f8847696c65259f74336e59e6572e\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Andrew Franchly\\.android\\build-cache\\78490e123b6f8847696c65259f74336e59e6572e\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\SDK\\Psychology-Dictioinary-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
+        "source": "C:\\Users\\Andrew Franchly\\.android\\build-cache\\cdbf6e830afbd975f091e7525afb10d1c5eb718f\\output\\res\\anim\\fab_out.xml"
+    }
+]
